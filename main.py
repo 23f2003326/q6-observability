@@ -54,7 +54,7 @@ def work(n: int = Query(...)):
         pass
 
     return {
-        "email": EMAIL,
+        "email": "23f2003326@ds.study.iitm.ac.in",
         "done": n
     }
 
